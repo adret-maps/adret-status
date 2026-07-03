@@ -40,18 +40,20 @@
     "url": "https://app.adret.it",
     "icon": "https://icons.duckduckgo.com/ip3/app.adret.it.ico",
     "slug": "app-spa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1535,
-    "timeDay": 1643,
-    "timeWeek": 1535,
-    "timeMonth": 1535,
-    "timeYear": 1535,
-    "dailyMinutesDown": {}
+    "time": 1367,
+    "timeDay": 1085,
+    "timeWeek": 1367,
+    "timeMonth": 1367,
+    "timeYear": 1367,
+    "dailyMinutesDown": {
+      "2026-07-03": 0
+    }
   },
   {
     "name": "Website",
