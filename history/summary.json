@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 443,
-    "timeWeek": 622,
-    "timeMonth": 589,
-    "timeYear": 600,
+    "time": 603,
+    "timeDay": 742,
+    "timeWeek": 616,
+    "timeMonth": 598,
+    "timeYear": 603,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 361,
+    "time": 440,
+    "timeDay": 546,
     "timeWeek": 471,
-    "timeMonth": 418,
-    "timeYear": 437,
+    "timeMonth": 424,
+    "timeYear": 440,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.adret.it.ico",
     "slug": "app-spa",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 1320,
-    "timeDay": 1039,
-    "timeWeek": 1410,
-    "timeMonth": 1307,
-    "timeYear": 1320,
+    "uptimeYear": "99.87%",
+    "time": 1327,
+    "timeDay": 1607,
+    "timeWeek": 1404,
+    "timeMonth": 1325,
+    "timeYear": 1327,
     "dailyMinutesDown": {
       "2026-07-03": 73
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 858,
-    "timeWeek": 1119,
-    "timeMonth": 1061,
-    "timeYear": 1101,
+    "time": 1106,
+    "timeDay": 1303,
+    "timeWeek": 1109,
+    "timeMonth": 1073,
+    "timeYear": 1106,
     "dailyMinutesDown": {}
   }
 ]
