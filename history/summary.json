@@ -22,37 +22,40 @@
     "url": "https://api.adret.it/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.adret.it.ico",
     "slug": "platform-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 494,
-    "timeWeek": 436,
-    "timeMonth": 465,
-    "timeYear": 455,
-    "dailyMinutesDown": {}
+    "time": 454,
+    "timeDay": 423,
+    "timeWeek": 425,
+    "timeMonth": 461,
+    "timeYear": 454,
+    "dailyMinutesDown": {
+      "2026-09-24": 0
+    }
   },
   {
     "name": "App (SPA)",
     "url": "https://app.adret.it",
     "icon": "https://icons.duckduckgo.com/ip3/app.adret.it.ico",
     "slug": "app-spa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1353,
-    "timeDay": 1337,
-    "timeWeek": 1511,
-    "timeMonth": 1368,
-    "timeYear": 1353,
+    "time": 1341,
+    "timeDay": 837,
+    "timeWeek": 1364,
+    "timeMonth": 1336,
+    "timeYear": 1341,
     "dailyMinutesDown": {
-      "2026-07-03": 73
+      "2026-07-03": 73,
+      "2026-09-24": 0
     }
   },
   {
