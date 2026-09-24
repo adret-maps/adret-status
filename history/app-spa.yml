@@ -1,7 +1,7 @@
 url: https://app.adret.it
-status: up
-code: 200
-responseTime: 1337
-lastUpdated: 2026-09-24T00:57:11.571Z
+status: down
+code: 503
+responseTime: 336
+lastUpdated: 2026-09-24T22:41:21.870Z
 startTime: 2026-06-29T09:03:52.072Z
 generator: Upptime <https://github.com/upptime/upptime>
