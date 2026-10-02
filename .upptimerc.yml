@@ -9,13 +9,12 @@ sites:
     url: https://api.adret.it/api/health
   - name: Platform Status
     url: https://api.adret.it/api/v1/status
-    __dangerous__body_down_if_text_missing: '"system":"operational"'
+    __dangerous__body_down_if_text_missing: '"core":"operational"'
   - name: App (SPA)
     url: https://app.adret.it
   - name: Website
     url: https://adret.it
 status-website:
-  cname: status.adret.it
   name: Adret Status
   introTitle: "**Adret** — platform status"
   introMessage: Live availability of the Adret hiking platform, checked every five minutes from outside our own infrastructure. For per-layer and data-feed detail, open the status panel inside the app.
@@ -30,7 +29,7 @@ status-website:
   css: |-
     @import url('https://rsms.me/inter/inter.css');
     :root {
-      --upptime-color-primary: #d97706;
+      --upptime-color-primary: #9f5c0f;
     }
     body, .dark body {
       font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
@@ -40,7 +39,7 @@ status-website:
     .rounded, .rounded-lg, .rounded-xl, .card, .box {
       border-radius: 8px !important;
     }
-    a, .link { color: #d97706; }
+    a, .link { color: #9f5c0f; }
     .badge-success, .text-success { color: #15803d !important; }
     .badge-warning, .text-warning { color: #b45309 !important; }
     .badge-danger, .text-danger { color: #b91c1c !important; }
