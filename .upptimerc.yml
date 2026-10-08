@@ -14,12 +14,15 @@ sites:
     url: https://app.adret.it
   - name: Website
     url: https://adret.it
+  - name: Sign-in (Keycloak)
+    url: https://auth.adret.it/realms/adret/.well-known/openid-configuration
+    __dangerous__body_down_if_text_missing: '"issuer":"https://auth.adret.it/realms/adret"'
 status-website:
   name: Adret Status
   introTitle: "**Adret** — platform status"
   introMessage: Live availability of the Adret hiking platform, checked every five minutes from outside our own infrastructure. For per-layer and data-feed detail, open the status panel inside the app.
-  logoUrl: https://adret.it/favicon.svg
-  favicon: https://adret.it/favicon.svg
+  logoUrl: https://adret.it/favicon-v2.svg
+  favicon: https://adret.it/favicon-v2.svg
   theme: light
   navbar:
     - title: Status
