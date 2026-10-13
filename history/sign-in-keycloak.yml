@@ -1,7 +1,7 @@
 url: https://auth.adret.it/realms/adret/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 228
-lastUpdated: 2026-10-12T01:53:47.834Z
+responseTime: 548
+lastUpdated: 2026-10-13T03:15:34.475Z
 startTime: 2026-10-08T23:01:08.913Z
 generator: Upptime <https://github.com/upptime/upptime>
