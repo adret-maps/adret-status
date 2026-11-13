@@ -44,21 +44,22 @@
     "url": "https://app.adret.it",
     "icon": "https://icons.duckduckgo.com/ip3/app.adret.it.ico",
     "slug": "app-spa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
-    "time": 1368,
-    "timeDay": 1500,
-    "timeWeek": 1340,
-    "timeMonth": 1416,
-    "timeYear": 1368,
+    "time": 1363,
+    "timeDay": 1004,
+    "timeWeek": 1236,
+    "timeMonth": 1388,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2026-07-03": 73,
       "2026-09-25": 933,
-      "2026-09-24": 79
+      "2026-09-24": 79,
+      "2026-11-13": 0
     }
   },
   {
@@ -66,18 +67,20 @@
     "url": "https://adret.it",
     "icon": "https://icons.duckduckgo.com/ip3/adret.it.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1145,
-    "timeDay": 1033,
-    "timeWeek": 1014,
-    "timeMonth": 1221,
-    "timeYear": 1145,
-    "dailyMinutesDown": {}
+    "time": 1140,
+    "timeDay": 725,
+    "timeWeek": 939,
+    "timeMonth": 1196,
+    "timeYear": 1140,
+    "dailyMinutesDown": {
+      "2026-11-13": 0
+    }
   },
   {
     "name": "Sign-in (Keycloak)",
